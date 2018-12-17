@@ -1,0 +1,7 @@
+﻿  brokerSy.c
+c:\users\sven\desktop\mqtt_beleg_release\rnks_beleg\mqtt_beleg\broker\brokersy.c(146): warning C4047: "Funktion": Anzahl der Dereferenzierungen bei "const char *" und "genericMsg **" unterschiedlich
+c:\users\sven\desktop\mqtt_beleg_release\rnks_beleg\mqtt_beleg\broker\brokersy.c(146): warning C4024: "sendto": unterschiedliche Typen für formalen und übergebenen Parameter 2
+c:\users\sven\desktop\mqtt_beleg_release\rnks_beleg\mqtt_beleg\broker\brokersy.c(146): warning C4133: "Funktion": Inkompatible Typen - von "sockaddr_in6 *" zu "const sockaddr *"
+c:\users\sven\desktop\mqtt_beleg_release\rnks_beleg\mqtt_beleg\broker\brokersy.c(137): warning C4101: "addrBuff": Unreferenzierte lokale Variable
+c:\users\sven\desktop\mqtt_beleg_release\rnks_beleg\mqtt_beleg\broker\brokersy.c(292): warning C4013: "processMsg" undefiniert; Annahme: extern mit Rückgabetyp int
+  Broker.vcxproj -> C:\Users\Sven\Desktop\MQTT_Beleg_Release\RNKS_Beleg\MQTT_Beleg\Debug\Broker.exe

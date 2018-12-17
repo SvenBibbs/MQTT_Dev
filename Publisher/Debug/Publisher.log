@@ -1,0 +1,10 @@
+﻿  PublisherSy.c
+c:\users\sven\desktop\mqtt_beleg_release\rnks_beleg\mqtt_beleg\publisher\publishersy.h(12): warning C4005: "INVALID_SOCKET": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winsock2.h(391): note: Siehe vorherige Definition von "INVALID_SOCKET"
+c:\users\sven\desktop\mqtt_beleg_release\rnks_beleg\mqtt_beleg\publisher\publishersy.c(84): warning C4133: "Funktion": Inkompatible Typen - von "publish *" zu "const char *"
+c:\users\sven\desktop\mqtt_beleg_release\rnks_beleg\mqtt_beleg\publisher\publishersy.c(102): warning C4133: "Funktion": Inkompatible Typen - von "ipv6 *" zu "const sockaddr *"
+  Publisher.c
+c:\users\sven\desktop\mqtt_beleg_release\rnks_beleg\mqtt_beleg\publisher\publishersy.h(12): warning C4005: "INVALID_SOCKET": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winsock2.h(391): note: Siehe vorherige Definition von "INVALID_SOCKET"
+  Code wird generiert...
+  Publisher.vcxproj -> C:\Users\Sven\Desktop\MQTT_Beleg_Release\RNKS_Beleg\MQTT_Beleg\Debug\Publisher.exe

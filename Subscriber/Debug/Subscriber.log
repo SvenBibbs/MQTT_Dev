@@ -1,0 +1,11 @@
+﻿  SubscriberSy.c
+c:\users\sven\desktop\mqtt_beleg_release\rnks_beleg\mqtt_beleg\subscriber\config.h(14): warning C4005: "BUFFER_SIZE": Makro-Neudefinition
+  c:\users\sven\desktop\mqtt_beleg_release\rnks_beleg\mqtt_beleg\subscriber\data.h(6): note: Siehe vorherige Definition von "BUFFER_SIZE"
+c:\users\sven\desktop\mqtt_beleg_release\rnks_beleg\mqtt_beleg\subscriber\subscribersy.c(106): warning C4047: "Funktion": Anzahl der Dereferenzierungen bei "u_short" und "char [6]" unterschiedlich
+c:\users\sven\desktop\mqtt_beleg_release\rnks_beleg\mqtt_beleg\subscriber\subscribersy.c(106): warning C4024: "htons": unterschiedliche Typen für formalen und übergebenen Parameter 1
+c:\users\sven\desktop\mqtt_beleg_release\rnks_beleg\mqtt_beleg\subscriber\subscribersy.c(182): warning C4133: "Funktion": Inkompatible Typen - von "genericMsg *" zu "char *"
+c:\users\sven\desktop\mqtt_beleg_release\rnks_beleg\mqtt_beleg\subscriber\subscribersy.c(182): warning C4133: "Funktion": Inkompatible Typen - von "sockaddr_in6 *" zu "sockaddr *"
+c:\users\sven\desktop\mqtt_beleg_release\rnks_beleg\mqtt_beleg\subscriber\subscribersy.c(183): warning C4477: "printf": Die Formatzeichenfolge "%d" erfordert ein Argument vom Typ "int", das variadic-Argument "1" weist aber den Typ "unsigned char *" auf.
+c:\users\sven\desktop\mqtt_beleg_release\rnks_beleg\mqtt_beleg\subscriber\subscribersy.c(177): warning C4101: "recvcc": Unreferenzierte lokale Variable
+  LINK : C:\Users\Sven\Desktop\MQTT_Beleg_Release\RNKS_Beleg\MQTT_Beleg\Debug\Subscriber.exe wurde nicht gefunden oder beim letzten inkrementellen Linkvorgang nicht erstellt; vollständiger Link wird durchgeführt.
+  Subscriber.vcxproj -> C:\Users\Sven\Desktop\MQTT_Beleg_Release\RNKS_Beleg\MQTT_Beleg\Debug\Subscriber.exe
